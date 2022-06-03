@@ -1,0 +1,61 @@
+{
+  "short_name": "Speecher",
+  "name": "Speecher",
+  "theme_color": "#ffffff",
+  "start_url": "https://speecher.me",
+  "background_color": "#ffffff",
+  "display": "fullscreen",
+  "icons": [
+    {
+      "src": "img/app/appIcon_48x48.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "img/app/appIcon_96x96.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "img/app/appIcon_144x144.png",
+      "type": "image/png",
+      "sizes": "144x144"
+    },
+    {
+      "src": "img/app/appIcon_192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+
+  "shortcuts": [
+  {
+    "name": "Search",
+    "short_name": "Search",
+    "description": "Search in Speecher, find content and channels.",
+    "url": "/search",
+    "icons": [{ "src": "img/app/shortcuts/search-shortcut-192x.png", "sizes": "192x192" }]
+  },
+  {
+    "name": "Explore",
+    "short_name": "Explore",
+    "description": "Explore new and trending channels and content in Speecher!",
+    "url": "/explore",
+    "icons": [{ "src": "img/app/shortcuts/explore-shortcut-192x.png", "sizes": "192x192" }]
+  },
+  {
+    "name": "Account",
+    "short_name": "Account",
+    "description": "Manage your Speecher account, see and edit data and channels.",
+    "url": "/account/manage",
+    "icons": [{ "src": "img/app/shortcuts/account-shortcut-192x.png", "sizes": "192x192" }]
+  },
+  {
+    "name": "Create post",
+    "short_name": "Create post",
+    "description": "Share your content, media, stories, links...",
+    "url": "/create",
+    "icons": [{ "src": "img/app/shortcuts/post-shortcut-192x.png", "sizes": "192x192" }]
+  }
+ ]
+}
