@@ -1,8 +1,8 @@
 {
-  "short_name": "Speecher",
-  "name": "Speecher",
+  "short_name": "Ripledd",
+  "name": "Ripledd",
   "theme_color": "#ffffff",
-  "start_url": "https://speecher.me",
+  "start_url": "https://ripledd.com",
   "background_color": "#ffffff",
   "display": "fullscreen",
   "icons": [
@@ -32,21 +32,21 @@
   {
     "name": "Search",
     "short_name": "Search",
-    "description": "Search in Speecher, find content and channels.",
+    "description": "Search in Ripledd, find content and channels.",
     "url": "/search",
     "icons": [{ "src": "img/app/shortcuts/search-shortcut-192x.png", "sizes": "192x192" }]
   },
   {
     "name": "Explore",
     "short_name": "Explore",
-    "description": "Explore new and trending channels and content in Speecher!",
+    "description": "Explore new and trending channels and content in Ripledd!",
     "url": "/explore",
     "icons": [{ "src": "img/app/shortcuts/explore-shortcut-192x.png", "sizes": "192x192" }]
   },
   {
     "name": "Account",
     "short_name": "Account",
-    "description": "Manage your Speecher account, see and edit data and channels.",
+    "description": "Manage your Ripledd account, see and edit data and channels.",
     "url": "/account/manage",
     "icons": [{ "src": "img/app/shortcuts/account-shortcut-192x.png", "sizes": "192x192" }]
   },
